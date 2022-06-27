@@ -1,0 +1,14 @@
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\bin\Debug\netcoreapp3.1\Monstri.exe
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\bin\Debug\netcoreapp3.1\Monstri.deps.json
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\bin\Debug\netcoreapp3.1\Monstri.runtimeconfig.json
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\bin\Debug\netcoreapp3.1\Monstri.runtimeconfig.dev.json
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\bin\Debug\netcoreapp3.1\Monstri.dll
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\bin\Debug\netcoreapp3.1\Monstri.pdb
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\obj\Debug\netcoreapp3.1\Monstri.csproj.AssemblyReference.cache
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\obj\Debug\netcoreapp3.1\Monstri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\obj\Debug\netcoreapp3.1\Monstri.AssemblyInfoInputs.cache
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\obj\Debug\netcoreapp3.1\Monstri.AssemblyInfo.cs
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\obj\Debug\netcoreapp3.1\Monstri.csproj.CoreCompileInputs.cache
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\obj\Debug\netcoreapp3.1\Monstri.dll
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\obj\Debug\netcoreapp3.1\Monstri.pdb
+C:\Users\hot_bebra\source\repos\Monstri\Monstri\obj\Debug\netcoreapp3.1\Monstri.genruntimeconfig.cache
